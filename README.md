@@ -2,11 +2,11 @@
 
 **DATE:16-02-2026**
 
-**NAME: Rishi chandran D**
+**NAME: Rishi chandran R**
 
 **ROLL NO: 212223043005**
 
-**DEPARTMENT: AIML**
+**DEPARTMENT: CSE**
 
 ## Aim:
 
@@ -258,7 +258,8 @@ void Error_Handler(void)
 
 ## Output screen shots of Serial port utility   :
  
-[333.pdf](https://github.com/user-attachments/files/26167652/333.pdf)
+![111](https://github.com/user-attachments/assets/7952b021-b91a-4c24-b2df-a9387b5f2f36)
+
 
 
  
